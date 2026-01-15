@@ -40,7 +40,7 @@
     "standard": "^17.0.0"
   },
   "peerDependencies": {
-    "react": "^16.2.0 || ^17 || ^18"
+    "react": "^16.2.0 || ^17 || ^18 || ^19"
   },
   "standard": {
     "parser": "@babel/eslint-parser",
